@@ -2,8 +2,7 @@
 Full TBI Example: Complete End-to-End Workflow
 ==============================================
 
-Demonstrates the complete sIPD generation pipeline using all 9 TBI predictors
-from the systematic review and meta-analysis. Runs through all 5 phases to
+Demonstrates the complete sIPD generation pipeline using all 9 TBI predictors from literature previous high-quality evidence. Runs through all 5 phases to
 generate a 50,000-patient synthetic dataset.
 
 """
