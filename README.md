@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-This repository provides an open-source implementation of a comprehensive five-phase methodology for generating **synthetic individual patient data (sIPD)** from aggregated meta-analysis results. Specifically designed for traumatic brain injury (TBI) prediction research, this framework enables researchers to:
+This repository provides an open-source implementation of a comprehensive five-phase methodology for generating **synthetic individual patient data (sIPD)** from aggregated literature evidence informed statistical results. Specifically designed for traumatic brain injury (TBI) prediction research, this framework enables researchers to:
 
 - Generate realistic synthetic patient datasets from 2×2 contingency tables
 - Preserve correlation structures between predictors
@@ -60,7 +60,6 @@ Developed for TBI prediction model research, validated against **9 studies** wit
 - ✅ Publication-quality diagnostic plots
 
 ### 🎓 Research-Ready
-- Designed for systematic reviews and meta-analyses
 - Handles missing data and heterogeneity
 - Sensitivity analysis tools included
 - Reproducible with fixed random seeds
@@ -88,7 +87,7 @@ Validates and refines correlation structure using Gaussian copula. Provides alte
 **Key Algorithm**: Gaussian copula with correlation validation
 
 ### Phase 4: Bayesian Outcome Generation
-Applies Bayesian logistic regression with published odds ratios as priors to generate binary outcomes consistent with meta-analysis results.
+Applies Bayesian logistic regression with published odds ratios as priors to generate binary outcomes consistent with previous literature evidence statistical results.
 
 **Key Algorithm**: Hamiltonian Monte Carlo (HMC) via PyMC
 
@@ -201,7 +200,6 @@ python examples/full_tbi_example.py
 ```
 
 This generates a 50,000-patient synthetic dataset with:
-- All 9 predictors from the systematic review
 - Validated correlation structure
 - Bayesian outcome generation
 - Comprehensive validation metrics
@@ -350,7 +348,7 @@ Adjusts multivariate distributions to match marginal constraints while preservin
 Models dependence structure separately from marginal distributions. Provides theoretical framework for multivariate binary data.
 
 #### Bayesian Priors
-Uses published odds ratios as informative priors, allowing data to update beliefs while respecting meta-analytic evidence.
+Uses published odds ratios as informative priors, allowing data to update beliefs while respecting evidence.
 
 ---
 
@@ -386,7 +384,7 @@ If you use this methodology in your research, please cite:
 @software{azzam2025tbi_sipd,
   author = {Azzam, Ahmed Y.},
   title = {TBI sIPD Methodology: A Five-Phase Framework for Generating 
-           Synthetic Individual Patient Data from Meta-Analysis},
+           Synthetic Individual Patient Data from Literature-Informed Evidence},
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/drazzam/tbi-sipd-methodology},
@@ -412,9 +410,9 @@ We welcome contributions from the research community! Areas for contribution inc
 ### Contribution Guidelines
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch
+3. Commit your change
+4. Push to the branch
 5. Open a Pull Request
 
 Please ensure:
@@ -424,10 +422,6 @@ Please ensure:
 - Examples are provided for new features
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### Research Disclaimer
 
@@ -449,7 +443,6 @@ This methodology builds upon foundational work in:
 - **Copula theory** (Sklar, 1959)
 - **Bayesian statistics** (Gelman et al., 2013)
 
-We thank the authors of the 9 original TBI prediction studies for making their data publicly available, enabling this meta-analytic synthesis.
 
 ### Funding
 
