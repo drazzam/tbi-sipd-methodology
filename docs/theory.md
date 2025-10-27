@@ -2,10 +2,6 @@
 
 **Synthetic Individual Patient Data (sIPD) Generation Framework**
 
-**Author**: Ahmed Azzam, MD  
-**Institution**: Department of Neuroradiology, WVU Medicine  
-**Date**: January 2025
-
 ---
 
 ## Table of Contents
