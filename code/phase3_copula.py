@@ -5,9 +5,6 @@ Phase 3: Copula Modeling
 Models joint distribution of binary predictors using Gaussian copula to handle
 complex dependencies. Validates that generated data preserves correlation structure.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
