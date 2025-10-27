@@ -6,9 +6,6 @@ Demonstrates the complete sIPD generation pipeline using all 9 TBI predictors
 from the systematic review and meta-analysis. Runs through all 5 phases to
 generate a 50,000-patient synthetic dataset.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
