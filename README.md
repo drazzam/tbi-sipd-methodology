@@ -1,6 +1,6 @@
 # TBI sIPD Methodology
 
-**A Five-Phase Framework for Generating Synthetic Individual Patient Data from Meta-Analysis**
+**A Five-Phase Framework for Generating Synthetic Individual Patient Data from Literature-Informed Evidence**
 
 ---
 
