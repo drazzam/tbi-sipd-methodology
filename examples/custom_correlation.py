@@ -6,9 +6,6 @@ Demonstrates how to specify custom correlation structures and perform
 sensitivity analysis by varying correlation strengths. Shows how correlation
 assumptions affect synthetic data generation.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
