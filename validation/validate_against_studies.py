@@ -5,9 +5,6 @@ Validation Against Published Studies
 Compares synthetic data performance metrics to published study results.
 Validates that synthetic data reproduces known relationships.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
