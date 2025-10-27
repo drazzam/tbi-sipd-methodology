@@ -384,7 +384,7 @@ If you use this methodology in your research, please cite:
 
 ```bibtex
 @software{azzam2025tbi_sipd,
-  author = {Azzam, Ahmed},
+  author = {Azzam, Ahmed Y.},
   title = {TBI sIPD Methodology: A Five-Phase Framework for Generating 
            Synthetic Individual Patient Data from Meta-Analysis},
   year = {2025},
@@ -463,12 +463,12 @@ None declared.
 
 ## 📧 Contact
 
-**Ahmed Azzam, MD**  
+**Ahmed Y. Azzam, MD, MEng, DSc(h.c.), FRCP**  
 Research Fellow, Department of Neuroradiology  
 WVU Medicine
 
 - **GitHub**: [@drazzam](https://github.com/drazzam)
-- **Email**: *Contact via GitHub for research inquiries*
+- **Email**: ahmed.azzam@hsc.wvu.edu
 - **Institution**: West Virginia University Medicine
 
 For questions, suggestions, or collaboration inquiries, please:
@@ -507,7 +507,7 @@ For questions, suggestions, or collaboration inquiries, please:
 
 ## 🔄 Version History
 
-### Version 1.0.0 (January 2025)
+### Version 1.0.0 (27 October 2025)
 - ✅ Initial release
 - ✅ All 5 phases implemented
 - ✅ Complete documentation
@@ -532,6 +532,6 @@ Made with 🧠 for advancing TBI prediction research
 
 ---
 
-**Last Updated:** January 2025  
+**Last Updated:** 27 October 2025  
 **Status:** Active Development  
 **Maintainer:** Ahmed Azzam, MD
