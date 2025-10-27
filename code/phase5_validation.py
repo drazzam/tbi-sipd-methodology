@@ -6,9 +6,6 @@ Validates synthetic data by applying clinical decision rules and comparing
 performance to published studies. Evaluates model predictions across multiple
 thresholds.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
