@@ -2,10 +2,6 @@
 
 **Statistical Assumptions for sIPD Generation**
 
-**Author**: Ahmed Azzam, MD  
-**Institution**: Department of Neuroradiology, WVU Medicine  
-**Date**: January 2025
-
 ---
 
 ## Table of Contents
