@@ -5,9 +5,6 @@ Utility Functions for sIPD Generation
 Common utility functions used across all phases of synthetic individual
 patient data generation.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
