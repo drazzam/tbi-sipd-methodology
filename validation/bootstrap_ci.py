@@ -5,9 +5,6 @@ Bootstrap Confidence Intervals
 Provides bootstrap methods for calculating confidence intervals on model
 performance metrics. Uses resampling to account for uncertainty.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
