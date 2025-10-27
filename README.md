@@ -453,7 +453,7 @@ We thank the authors of the 9 original TBI prediction studies for making their d
 
 ### Funding
 
-*Funding information will be added if applicable.*
+None.
 
 ### Conflicts of Interest
 
@@ -534,4 +534,4 @@ Made with 🧠 for advancing TBI prediction research
 
 **Last Updated:** 27 October 2025  
 **Status:** Active Development  
-**Maintainer:** Ahmed Azzam, MD
+**Maintainer:** Ahmed Y. Azzam, MD, MEng, DSc(h.c.), FRCP
