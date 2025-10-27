@@ -5,9 +5,6 @@ Diagnostic Plots for Model Validation
 Creates publication-quality diagnostic plots for validating synthetic data
 and model performance: ROC curves, calibration plots, distribution plots.
 
-Author: Ahmed Azzam, MD
-Institution: Department of Neuroradiology, WVU Medicine
-Date: January 2025
 """
 
 import numpy as np
